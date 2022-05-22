@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe8a1dc-08a5-4f3f-bbfe-4d3f91cefdd3" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.gitignore" afterPathEscaped="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/codeStyles/Project.xml" afterPathEscaped="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" afterPathEscaped="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/dbnavigator.xml" afterPathEscaped="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/misc.xml" afterPathEscaped="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/modules.xml" afterPathEscaped="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/vcs.xml" afterPathEscaped="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/.idea/workspace.xml" afterPathEscaped="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/HelloWorld.iml" afterPathEscaped="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/MyData/Java Learning/HelloWorld/src/helloworld.java" afterPathEscaped="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
-    </list>
+    <list default="true" id="efe8a1dc-08a5-4f3f-bbfe-4d3f91cefdd3" name="Changes" comment="Demo HelloWorld" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +34,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RunManager">
@@ -71,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653238468426</updated>
     </task>
+    <task id="LOCAL-00001" summary="Demo HelloWorld">
+      <created>1653239322569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653239322569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Demo HelloWorld" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo HelloWorld" />
   </component>
 </project>
