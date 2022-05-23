@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe8a1dc-08a5-4f3f-bbfe-4d3f91cefdd3" name="Changes" comment="Demo HelloWorld">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/MyData/Java Learning/Java-Basic-Programs/src/multiplication.java" afterPathEscaped="$PROJECT_DIR$/src/multiplication.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/MyData/Java Learning/Java-Basic-Programs/.idea/workspace.xml" beforePathEscaped="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/MyData/Java Learning/Java-Basic-Programs/.idea/workspace.xml" afterPathEscaped="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/MyData/Java Learning/Java-Basic-Programs/src/add.java" beforePathEscaped="$PROJECT_DIR$/src/add.java" beforeDir="false" afterPath="$USER_HOME$/MyData/Java Learning/Java-Basic-Programs/src/addition.java" afterPathEscaped="$PROJECT_DIR$/src/addition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
-}</component>
-  <component name="RunManager" selected="Application.add">
+}]]></component>
+  <component name="RunManager" selected="Application.multiplication">
     <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add" />
       <module name="HelloWorld" />
@@ -58,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplication" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.multiplication" />
         <item itemvalue="Application.add" />
         <item itemvalue="Application.helloworld" />
       </list>
