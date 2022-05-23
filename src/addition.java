@@ -1,6 +1,6 @@
 import java.util.*;
 
-class add {
+class addition {
     public static void main(String[] args) {
         int number1 = 10;
         int number2 = 30;
@@ -11,9 +11,9 @@ class add {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Number 1");
+        System.out.println("Enter Number 1 :");
         int sc_number_1 = Integer.parseInt(sc.nextLine());
-        System.out.println("Enter Number 2");
+        System.out.println("Enter Number 2 :");
         int sc_number_2 = Integer.parseInt(sc.nextLine());
 
         int sc_result = sc_number_1 + sc_number_2;
